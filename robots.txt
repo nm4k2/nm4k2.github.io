@@ -1,0 +1,10 @@
+User-agent: * 
+Allow: /
+Allow: /archives/
+Disallow: /js/
+Disallow: /libs/
+Disallow: /css/
+
+Sitemap: http://yuge8.com/sitemap.xml
+Sitemap: http://yuge8.com/baidusitemap.xml
+
